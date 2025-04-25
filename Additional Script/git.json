@@ -1,0 +1,52 @@
+[
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "product_sink_folder" : "AdventureWorks_Product_Categories",
+        "product_sink_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "product_sink_folder" : "AdventureWorks_Calendar",
+        "product_sink_file" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "product_sink_folder" : "AdventureWorks_Customers",
+        "product_sink_file" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "product_sink_folder" : "Product_Subcategories",
+        "product_sink_file" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "product_sink_folder" : "AdventureWorks_Products",
+        "product_sink_file" : "AdventureWorks_Products.csv"
+    },
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "product_sink_folder" : "AdventureWorks_Returns",
+        "product_sink_file":"AdventureWorks_Returns.csv"
+    },
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data//AdventureWorks_Sales_2015.csv",
+        "product_sink_folder" : "AdventureWorks_Sales_2015",
+        "product_sink_file" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "product_sink_folder" : "AdventureWorks_Sales_2016",
+        "product_sink_file" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "product_sink_folder" : "AdventureWorks_Sales_2017",
+        "product_sink_file" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "product_relative_url" : "sauhar/Azure_ETL/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "product_sink_folder" : "AdventureWorks_Territories",
+        "product_sink_file" : "AdventureWorks_Territories.csv"
+    }
+]
