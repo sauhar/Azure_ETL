@@ -36,7 +36,7 @@ This end-to-end project follows a **layered architecture (Bronze → Silver → 
 ---
 
 
-- **More Projects on PySpark:** [Databricks_PySpark](https://github.com/sauhar/Databricks_PySpark)
+- **More Project on PySpark:** [Databricks_PySpark](https://github.com/sauhar/Databricks_PySpark)
 
 ---
 
